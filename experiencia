@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>Experiencia</title>
+</head>
+<body>
+	<img src="../Capture.png" alt="proyecto final" title="proyecto final" width="200px" height="200px">
+	<ol>
+		<li><a href="../index.html">Ir a pagina principal</a></li>
+		<li><a href="educacion.html">Educacion</a></li>
+	</ol>
+	<form name="Hoja de Vida">  
+		<fieldset>
+			<h1>Hoja de Vida</h1>
+			<ol>
+				<li>
+					<h2>Nomnres</h2>
+					<ul>
+						<li>
+							<h3>Jose Antonio</h3>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<h2>Apellidos</h2>
+					<ul>
+						<li>
+							<h3>Rosario Lazala</h3>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<h2>Fecha y Lugar de Nacimiento</h2>
+					<ul>
+						<li>
+							<h3>14-01-1993, Fantino, Sanchez Ramirez, Republica Dominicana</h3>
+						</li>
+					</ul>
+				</li>
+			</ol>
+			<h2>Experiencia</h2>
+			<p>Actualmente estoy trabando  en un centro de atencion al clien por chat, y es mi primer empleo.</p></br>
+			<h2>Experiencia Laboral</h2>
+			<video src="laboral.mp4" controls width="400px" height="400px"></video>
+			<h2>Para tu amor</h2>
+			<audio src="tuamor.mp3" controls ></audio>
+
+
+
+
+			
+		</fieldset>
+	 </form>
+	 <footer>
+	 	<p> Email: </br>
+	 	 jochy20140322@gmail.com
+	 	</p>
+	 	<p> Contacto: </br>
+	 	 809-767-2071
+	 	</p>
+	 	
+     </footer>
+
+
+	
+
+	
+</body>
+</html>
